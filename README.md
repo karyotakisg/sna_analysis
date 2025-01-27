@@ -33,3 +33,6 @@ We don’t just crunch the numbers – we make them pop! With dynamic node sizes
    cd sna_analysis
    # Install requirements
    pip install -r requirements.txt
+
+## 📒 Note
+To use `gender_classifier.ipynb`, you will need an OpenAI API key. Make sure to set up your key in a `.env` file or your environment variables before running the notebook.

@@ -8,3 +8,5 @@ powerlaw
 openai
 dotenv
 wordcloud
+os
+ast
