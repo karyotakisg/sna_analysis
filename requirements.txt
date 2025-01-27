@@ -1,0 +1,10 @@
+networkx
+pandas
+matplotlib
+seaborn
+numpy
+regex
+powerlaw
+openai
+dotenv
+wordcloud
